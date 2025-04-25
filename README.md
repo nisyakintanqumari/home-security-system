@@ -52,4 +52,3 @@ home-security-system/
 **Nisya Kintan Qumari**  
 Email: nisyakintanqumari@gmail.com  
 LinkedIn: [Nisya Qumari](https://www.linkedin.com/in/nisya-kintan-qumari-%E5%80%AA%E8%89%BE%E8%8E%8E-52b202215/)
-```
