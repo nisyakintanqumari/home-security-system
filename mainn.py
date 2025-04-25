@@ -37,3 +37,4 @@ try:
             send_email(filename)
 except KeyboardInterrupt:
     GPIO.cleanup()
+```
