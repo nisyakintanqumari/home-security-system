@@ -1,0 +1,7 @@
+## 📎 requirements.txt
+```
+picamera
+RPi.GPIO
+```
+
+Let me know if you want this packaged into a downloadable `.zip` or help creating the GitHub repo with this structure! 🚀
